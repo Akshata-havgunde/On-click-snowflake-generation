@@ -1,1 +1,1 @@
-# On-click-snowflake-generation
+"Welcome to the Click Snowflake Generation project on GitHub! This repository showcases a web-based snowflake generation on clicking page built with HTML, CSS, and JavaScript. Explore the code and documentation to create and manage unique snowflakes seamlessly in your web applications."
